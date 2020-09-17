@@ -5,9 +5,11 @@ DarkPBF is a automatic Passoword Cracker❤
 
 #Run-
 
+# pip install bs4
+
 # git clone https://github.com/D4RK-PH1N1X/DarkPBF
 
-# cd DarkPBF
+# cd D4RKPBF
 
 # bash run.sh
 
