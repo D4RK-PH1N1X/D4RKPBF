@@ -19,4 +19,4 @@ Now if you want to make passwordlist-
 
 If you want to start bruteforce attack-
 
-# python3 fbbrute.py 
+# python2 fbbrute.py
