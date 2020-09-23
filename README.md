@@ -13,7 +13,7 @@ DarkPBF is a automatic Passoword Cracker❤
 
 # bash run.sh
 
-Now if you want to make passwordlist & start bruteforce autocraticly-  
+Now if you want to make passwordlist & start bruteforce automaticly-   
 
 # python3 DARKPBF.py
 
