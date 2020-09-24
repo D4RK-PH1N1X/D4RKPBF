@@ -1,5 +1,5 @@
-# DarkPBF
-DarkPBF is a automatic Passoword Cracker❤
+# D4RKPBF
+D4RKPBF is a automatic Passoword Cracker❤
 
 # BRUTEFORCE & BRUTEFORCE PASSWORD LIST GENERATOR
 
@@ -13,7 +13,7 @@ DarkPBF is a automatic Passoword Cracker❤
 
 Now if you want to make passwordlist & start bruteforce automaticly-   
 
-# python3 DARKPBF.py
+# python3 D4RKPBF.py
 
 If you want to start bruteforce attack-
 
