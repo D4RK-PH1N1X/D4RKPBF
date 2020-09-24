@@ -5,8 +5,6 @@ DarkPBF is a automatic Passoword Cracker❤
 
 #Run-
 
-# pip install bs4
-
 # git clone https://github.com/D4RK-PH1N1X/D4RKPBF
 
 # cd D4RKPBF
